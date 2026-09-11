@@ -1,5 +1,5 @@
 # Hi, I'm Neha Goel! 👋 
-### 📊 Data Analyst | SQL | Power BI | Excel | Python
+### 📊 Data Analyst | SQL | Power BI | Advanced Excel | Power Query | DAX |
 
 I am a passionate Data Analyst dedicated to turning raw data into meaningful business insights through visualization and data modeling.
 
