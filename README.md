@@ -36,7 +36,8 @@ I am a passionate Data Analyst dedicated to turning raw data into meaningful bus
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:**www.linkedin.com/in/neha-goel-bb0361167
+### 📫 Connect  Work with Me
+- **LinkedIn:** www.linkedin.com/in/neha-goel-bb0361167
 
 - **Email:** snehagoel1515@gmail.com
+- **Freelancer:** https://www.freelancer.in/u/bhutrakichu?sb=t
